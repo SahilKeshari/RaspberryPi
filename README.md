@@ -35,5 +35,7 @@ After the process is completed your sd card is now ready to be used, now connect
 After this, you can go through the following video to configure your raspberrypi and control it virtually using realvnc.
 
 *You can through the videos but since then Raspberrypi software is updated and simplified so there are few changes:- 
+
 Raspberrypi OS Configuration - https://www.youtube.com/watch?v=D4y_i-m5rK4&list=PL0s3O6GgLL5cteXH7CJK7kc2Ar5wR7M81&index=4&ab_channel=Lastmomenttuitions
+
 Virtually connect with PC- https://www.youtube.com/watch?v=kYfDJaL9GjM&list=PL0s3O6GgLL5cteXH7CJK7kc2Ar5wR7M81&index=5&ab_channel=Lastmomenttuitions
