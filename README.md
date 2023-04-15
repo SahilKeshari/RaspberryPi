@@ -1,5 +1,4 @@
-# RaspberryPi
-Setting up raspberry pi
+# Setting up raspberry pi
 
 Recommended hardware tools for Raspberry PI:-
 
@@ -15,7 +14,7 @@ Recommended hardware tools for Raspberry PI:-
 Required Software files:-
 
 1- RaspberryPI imager (Attached with this Repoistory) - To set raspberrypi's operating system (similar to linux).
-2- REALVNC Connect (Attached with this Repoistory) - To control raspberry pi with laptop (as you cannot take monitor everywhere :)).
+2- REALVNC Connect (Attached with this Repoistory) - To control raspberry pi with laptop (as you cannot take monitor everywhere :) ).
 
 For setting up raspberry pi:-
 
