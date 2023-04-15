@@ -18,6 +18,7 @@ Recommended hardware tools for Raspberry PI:-
 
 8- Personal Computer
 
+
 Required Software files:-
 
 1- RaspberryPI imager (Attached with this Repoistory) - To set raspberrypi's operating system (similar to linux).
@@ -34,6 +35,7 @@ For setting up raspberry pi:-
 
 4- select the Storage location (Here, Card reader) then press enter.
 
+
 After the process is completed your sd card is now ready to be used, now connect all the component to raspberrypi (*Do not give power to the raspberrypi till all the components are connected.):-
 
 1- Insert the SD card into your raspberry pi (located at the backward side of raspberry pi),
@@ -45,6 +47,7 @@ After the process is completed your sd card is now ready to be used, now connect
 4- plug in the charger into raspberrypi (light will turn on),
 
 5- Now you are ready to go open the monitor and wait till the raspberry pi boot its operating system.
+
 
 After this, you can go through the following video to configure your raspberrypi and control it virtually using realvnc.
 
